@@ -11,5 +11,7 @@ Using Sentiment Analysis and NLP Techniques to analyse an Amazon Reviews dataset
 
 The tutorial I followed: https://www.youtube.com/watch?v=QpzMWQvxXWk
 
+---
+
 ### Final Comparison between VADER and RoBERTa Models
-![image](/Users/ivanhung/Documents/Projects/amzn-nlp-analysis/vaderxroberta_results.png)
+![image](https://github.com/hivan04/amzn-nlp-analysis/blob/main/vaderxroberta_results.png)
