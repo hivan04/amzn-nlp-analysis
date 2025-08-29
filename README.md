@@ -9,7 +9,7 @@ Using Sentiment Analysis and NLP Techniques to analyse an Amazon Reviews dataset
 
 *It was also great to have a review on some ML projects such as the softmax function* <br>
 
-The tutorial I followed: [![alt text](https://www.youtube.com/watch?v=QpzMWQvxXWk.jpg)](https://www.youtube.com/watch?v=QpzMWQvxXWk)
+The tutorial I followed: https://www.youtube.com/watch?v=QpzMWQvxXWk
 
 ### Final Comparison between VADER and RoBERTa Models
 ![image](/Users/ivanhung/Documents/Projects/amzn-nlp-analysis/vaderxroberta_results.png)
